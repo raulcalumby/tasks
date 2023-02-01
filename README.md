@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Project Readme - Task List</title>
 </head>
 <body>
+<h1 style='color: red;'></h1>
   <h1>Task List</h1>
   <p>A project made with React JS and TypeScript that allows users to register tasks in a list. However, upon refreshing the page, the tasks will disappear.</p>
   <h2>Features:</h2>
